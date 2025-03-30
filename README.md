@@ -30,9 +30,9 @@ A Python-based web agent for interacting with websites, likely including tasks l
      ```
    - Edit `.env` with your specific configurations.
 
-2. Run the agent:
+2. Run the Streamlit application:
    ```bash
-   python WebsiteAgent.py
+   streamlit run app.py
    ```
 
 ## Environment Variables
@@ -48,9 +48,9 @@ Refer to `.env.template` for required environment variables. Common variables mi
 
 ## License
 
-MIT License
+This project is licensed under the MIT License. You are free to use, modify, distribute, and share it without restriction.
 
-Copyright (c) 2025 Sunil Mishra
+### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -69,3 +69,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
