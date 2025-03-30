@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+*.csv
+*.pkl
